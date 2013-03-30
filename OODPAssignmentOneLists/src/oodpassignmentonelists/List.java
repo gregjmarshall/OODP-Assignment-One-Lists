@@ -5,8 +5,9 @@
 package oodpassignmentonelists;
 
 /**
- *
- * @author marshall_gj
+ * @author Greg Marshall
+ * MSc Computer Science 
+ * Submission date: 31/03/2013
  */
 public class List<T> {
     private static final int INIT_LEN = 10;
